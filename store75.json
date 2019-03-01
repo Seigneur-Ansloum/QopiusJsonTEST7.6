@@ -327,8 +327,8 @@
                      "right_y":37.0
                   }
                ]
-            },                 									
-			{  
+            },
+            {  
                "planes":[  
                   {  
                      "right_x":618.0,
@@ -392,57 +392,57 @@
                   }
                ]
             }
-         
-      },
-      "store_data":{  
-         "max_x":2000,
-         "scale_m_per_pixel":0.005,
-         "max_y":2000
-      },
-      "storeareas":[  
-         {  
-            "imageWH":[  
-               2464,
-               3280
-            ],
-            "type_images":"panorama_image",
-            "name":"CAFE",
-            "imageurl":"https://storage.googleapis.com/qopiuseu1/q2YbQF/panorama/B7TVMWAPJc/YrHcfTKriu/images/compressed/hjiajhhejcjegd-fpu_jneLxx_0_0_inference_o92DVpqy.jpg?Expires=5151079832&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=JqICEM%2BEXa2JJMz7GLedbdsyQEMHfxIZnsyiQSWl%2FEM1xJBLGFlzodYIfqZxTbCmaw%2FnxQ0Gk5FvLXMDL6lhdoMbK5kM9N6zkrHYjvaTbAa%2BzhD6BKjXALDCL2g4TvHdB8sywxNJiG5ektONzSYb3AXA32j0X%2Bri1UlLa7iKWYOb5zjF3VBCb8FZFu5%2FhGomC1IxRou28%2FeZYv98t2xvv%2BsYv7i%2FqC16bXVzgSCCQG0TOkfI1fzvs%2BhwzT0hMar40mzLB%2BnMzgjix0pf%2BCuNIC%2B7o%2BatWsBsXSmfwQ1yv55Qfx8%2FJTHYwN05J6qkP1c6EL5%2FYASJi9CxL%2BpGYFx2cw%3D%3D",
-            "date":1551078316.175212,
-            "coords":{  
-               "right_x":321,
-               "right_y":1353,
-               "left_x":309,
-               "left_y":1283
-            },
-            "id":"YgFQQGY6N5",
-            "products":[  
-               {  
-                  "imageUrl":"",
-                  "y1":2469,
-                  "y2":2606,
-                  "name":"NOVELTY - Coffee_Franprix",
-                  "ean":"",
-                  "x2":169,
-                  "brand":"Vicho Yo",
-                  "x1":0,
-                  "id":"ntV40Hnovelty",
-                  "brandID":"FAy30Wjegw"
+         ],
+         "store_data":{  
+            "max_x":2000,
+            "scale_m_per_pixel":0.005,
+            "max_y":2000
+         },
+         "storeareas":[  
+            {  
+               "imageWH":[  
+                  2464,
+                  3280
+               ],
+               "type_images":"panorama_image",
+               "name":"CAFE",
+               "imageurl":"https://storage.googleapis.com/qopiuseu1/q2YbQF/panorama/B7TVMWAPJc/YrHcfTKriu/images/compressed/hjiajhhejcjegd-fpu_jneLxx_0_0_inference_o92DVpqy.jpg?Expires=5151079832&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=JqICEM%2BEXa2JJMz7GLedbdsyQEMHfxIZnsyiQSWl%2FEM1xJBLGFlzodYIfqZxTbCmaw%2FnxQ0Gk5FvLXMDL6lhdoMbK5kM9N6zkrHYjvaTbAa%2BzhD6BKjXALDCL2g4TvHdB8sywxNJiG5ektONzSYb3AXA32j0X%2Bri1UlLa7iKWYOb5zjF3VBCb8FZFu5%2FhGomC1IxRou28%2FeZYv98t2xvv%2BsYv7i%2FqC16bXVzgSCCQG0TOkfI1fzvs%2BhwzT0hMar40mzLB%2BnMzgjix0pf%2BCuNIC%2B7o%2BatWsBsXSmfwQ1yv55Qfx8%2FJTHYwN05J6qkP1c6EL5%2FYASJi9CxL%2BpGYFx2cw%3D%3D",
+               "date":1551078316.175212,
+               "coords":{  
+                  "right_x":321,
+                  "right_y":1353,
+                  "left_x":309,
+                  "left_y":1283
                },
-               {  
-                  "imageUrl":"https://storage.googleapis.com/qopiuseu1/exwBoL/label_images/s0mfylN43S.jpg?Expires=1905840727&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=KKuXq6VOWxEJfTB%2FVAHRx1c5XQuuS5dhG9y%2FLpnQFX5OkQhkTdpnMOvKI%2FDKy3ByLQstjIxiJMNK%2BEOvkUtpCSIkM8GrWE7Xs5gW93v5MoxA60xV8%2FQU0VUru4eer%2BB%2FneHq1Mr7Uw2ER9hkkH2Uj9FnmmEm1hoDiXeyogCinNfJoVmq7WXhTvr0rVG6cfR1y7TBPXKufWjKReRgOGQ8GT1kCASd2qZ4sgvskouFtYrEaepLGga8zWcsZTxC7KpzdFxJ%2BXus62UtIDlZg85wERDDNS5PiGpPyimRcsyB4BGFHDwsGpYLiaEBPewUWPJHJff9qzGUIzTZlhO9Jo8SMA%3D%3D",
-                  "y1":2381,
-                  "y2":2459,
-                  "name":"Cafe soluble Cappuccino Nescafe",
-                  "ean":7613032568436,
-                  "x2":2081,
-                  "brand":"Nescafe",
-                  "x1":1947,
-                  "id":"s0mfylN43S",
-                  "brandID":"IVJakPFbpu"
-               }
-            ]
-         }
-      ]
+               "id":"YgFQQGY6N5",
+               "products":[  
+                  {  
+                     "imageUrl":"",
+                     "y1":2469,
+                     "y2":2606,
+                     "name":"NOVELTY - Coffee_Franprix",
+                     "ean":"",
+                     "x2":169,
+                     "brand":"Vicho Yo",
+                     "x1":0,
+                     "id":"ntV40Hnovelty",
+                     "brandID":"FAy30Wjegw"
+                  },
+                  {  
+                     "imageUrl":"https://storage.googleapis.com/qopiuseu1/exwBoL/label_images/s0mfylN43S.jpg?Expires=1905840727&GoogleAccessId=google-cloud-storage%40apitest2-205611.iam.gserviceaccount.com&Signature=KKuXq6VOWxEJfTB%2FVAHRx1c5XQuuS5dhG9y%2FLpnQFX5OkQhkTdpnMOvKI%2FDKy3ByLQstjIxiJMNK%2BEOvkUtpCSIkM8GrWE7Xs5gW93v5MoxA60xV8%2FQU0VUru4eer%2BB%2FneHq1Mr7Uw2ER9hkkH2Uj9FnmmEm1hoDiXeyogCinNfJoVmq7WXhTvr0rVG6cfR1y7TBPXKufWjKReRgOGQ8GT1kCASd2qZ4sgvskouFtYrEaepLGga8zWcsZTxC7KpzdFxJ%2BXus62UtIDlZg85wERDDNS5PiGpPyimRcsyB4BGFHDwsGpYLiaEBPewUWPJHJff9qzGUIzTZlhO9Jo8SMA%3D%3D",
+                     "y1":2381,
+                     "y2":2459,
+                     "name":"Cafe soluble Cappuccino Nescafe",
+                     "ean":7613032568436,
+                     "x2":2081,
+                     "brand":"Nescafe",
+                     "x1":1947,
+                     "id":"s0mfylN43S",
+                     "brandID":"IVJakPFbpu"
+                  }
+               ]
+            }
+         ]
+      }
    }
 }
